@@ -1,6 +1,8 @@
 package leetCode;
 
 
+import tree.TreeNode;
+
 /**
  * 检查是否是一颗对称二叉树
  */

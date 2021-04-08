@@ -1,5 +1,7 @@
 package leetCode;
 
+import tree.TreeNode;
+
 /**
  * LeetCode二叉树的最大深度
  */
